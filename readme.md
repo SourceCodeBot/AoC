@@ -15,4 +15,3 @@ While the holidays, I'll rewrite every challenge to a best practice Project.
 ## 2022
 
 `scalaVersion := "3.2.1"`
-
